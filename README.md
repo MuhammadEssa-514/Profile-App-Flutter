@@ -1,16 +1,1 @@
-# assignment_one
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1920" height="1080" alt="welcome screen dark mode" src="https://github.com/user-attachments/assets/5966cf69-9f9b-446a-8052-321f4fb1aa68" /><img width="1920" height="1080" alt="welcome screen dark mode" src="https://github.com/user-attachments/assets/2e3f571a-b0be-4c57-8fce-9ee4644efb70" />
